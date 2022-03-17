@@ -242,3 +242,7 @@ body{
 .star{
     margin-top: 100px;
 }
+.tag1 h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(16, 16, 77);
+}
