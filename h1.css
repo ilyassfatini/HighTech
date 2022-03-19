@@ -5,7 +5,7 @@ body{
     justify-items: center;
     align-items: center;
     display: grid;
-    background-image:url("red.jpg");
+    background-image:url("bg.jpg");
     background-size:cover ;
     background-attachment: fixed;
 }
